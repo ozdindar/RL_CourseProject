@@ -45,7 +45,7 @@ These environments are designed to help students experiment with and understand 
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/se4488-rl-lecture-code.git
+   git clone https://github.com/ozdindar/RL_CourseProject.git
    ```
 2. Import the project into your favorite Java IDE (e.g., IntelliJ IDEA, Eclipse).
 3. Explore the `src` folder for implementations of RL methods and environments.
